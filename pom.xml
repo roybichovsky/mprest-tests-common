@@ -19,7 +19,7 @@
 
         <org.springframework.boot.version>2.2.4.RELEASE</org.springframework.boot.version>
         <projectlombok.version>1.18.10</projectlombok.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <com.beust.jcommander.version>1.72</com.beust.jcommander.version>
         <com.github.docker-java.version>3.1.1</com.github.docker-java.version>
         <io.rest-assured.version>4.2.0</io.rest-assured.version>
